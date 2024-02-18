@@ -1,0 +1,4 @@
+git status
+first line data 
+made the changes in file1 
+ 
